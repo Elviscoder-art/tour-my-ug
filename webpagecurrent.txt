@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport"content="width=device-width,intial-scale=1">
+        <title>home page</title>
+        <style type="text/css">
+            body{
+                text-decoration:none;
+                background-color: greenyellow;
+            }
+            .navbar{
+                background: crimson;font-family: calibri;padding-right: 25px;padding-left: 25px;
+            }
+            .navdiv{
+                display: flex;align-items: center;justify-content: space-between;
+            }
+            .logo a{
+                font-size: 15px;font-weight: 600;color: aqua;align-content: center;
+            }
+            li{
+                list-style: none;display: inline-block;
+            }
+            li a{ 
+                color: white;font-size: 18px;font-weight: bold;margin-right: 25px;float: right;
+            }
+            button{
+                background-color: black;margin-left: 10px;border-radius: 10px;padding: 10px;width: 90px;float: right;
+            }
+            button a{
+                color: aquamarine;font-weight: bold;font-size: 15px;
+            }
+            img{
+                border:1px solid #ddd;
+                border-radius: 5px;
+                padding:5px;
+                width: 305px;
+            }
+        .div1,.div2,.div3    img{
+                border:1px solid #ddd;
+                border-radius: 20px;
+                padding:5px;
+                width: 305px;
+                height: auto;
+            }
+            .div1{
+                width:140%;
+                margin:10px;
+                height: auto;
+                background-image: url(th.jpg);
+                background-repeat: no-repeat;
+                background-size: 70%;
+                background-position: fixed;
+                background-attachment: center;
+            }
+            .div2{
+                width:140%;
+                margin:10px;
+                height: auto;
+                background-image: url(th\ \(1\).jpg);
+                background-repeat: no-repeat;
+                background-size: 70%;
+                background-position: fixed;
+                background-attachment: center;
+            }
+            .div3{
+                width:140%;
+                margin:10px;
+                height: auto;
+                background-image: url(OIP\ \(17\).jpg);
+                background-repeat: no-repeat;
+                background-size: 70%;
+                background-position: fixed;
+                background-attachment: center;
+            }  
+            .p{
+                text-align: justify;
+                text-emphasis: bold;
+                font-style: italic;
+                font-weight: bolder;
+            }
+        </style>
+        </head>
+        <body>
+            <nav class="navbar">
+                <div class="navbar">
+                    <div class="logo"><center><a href="#"><img src="logo.png"></a></center></div>
+            <ul>
+            <li><a class="active" href="web page 2.html">plces to visit</a></li> 
+            <li><a href="web page 3.html">visit Entebbe zoo</a></li>  
+            <li><a href="web page 4.html">m.t Rwenzori and M.t Elogn</a ></li>
+             <li><a href="web page 5.html">visit lakes  </a></li>
+             <li><a href="web page 6.html ">see rivers</a></li>
+             <li><a href="web page 7.html">swamp and wetland </a></li> 
+            <li><a href="web page 8.html">tourist companies</a></li> 
+            <li><a href="web page 9.html" > see people of uganda </a></li> 
+            <li><a href= "web page 10.html">about us</a></li>
+            <button><a href="#">sign In</a></button>
+            <button><a href="#">sign Out</a></button>
+            </ul>
+            </nav>
+            <center> <form>
+                <input type="text"placeholder="search...."required >
+                <button type="search" class=button_4">search </button>
+                </form></center>
+                 <div class="div1">
+    <h1>some content about the website </h1>
+    <p>Online tour guide is a company aiming at helping people with love for adventure and touring reach their destination in uganda<br>. with many connection to touring sites and tourism offices and personel,<br>online tour guide can to treach you any where you want to be in uganda for touring purpose  </p>
+    </div>
+    <div class="div2">
+    <h2>contacts</h2>
+    <p> you can reach out onliner tour guide following these directions;
+    e-mail www.wafulaelvis 821@gmail.com
+    phone contact :0755261698 0761636724
+     </p>
+    </div>
+    <div class="div3">
+    <h3> location of the site operators </h3>
+    <p>find th this site's operators at plot 15 kampala p.o Box 1156 nitinda road opposite haris international </p>
+    </div>
+    <a href="web page 2.html">see places to visit</a >
+        <img src="river 3.jpg"/>     <img src="river 1.jpg"/>
+            </body>
+            <html>

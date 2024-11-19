@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<title> lake in motherland uganda </title>
+</head>
+<body bgcolor="yellow">
+<div style="background-color:back;white;padding:2px">
+<img src="logo.png">
+<h2 align=center>ONLINE TOUR GUILD</h2><h3 style=background-color"#" align=right>SIGN IN </h3>
+<body>
+<div>
+<h1> lakes in uganda </h2>
+<p> uganda has is blessed with mang unigne lakesthat is to say, in size, shape, formation,location and use to the people and environmemt. Differnt as they can be, they still have thing one common feature that is; they add up to the uganda tourism industry</p>
+<p>some of the lakes include;
+<ol type="a">
+<li>lake victoria. The largest lake in Africa and the source of the nile river </li>
+<li>Lake Edward and George  are two lakes connected by the kazinga channel in the western uganda</li>
+<li>lake Albert found at the borber of uganda and DRC </li>
+<li>Lake Bunyonyi is ascience lake in south western uganda </li>
+</ol>
+ </p>
+</div>
+<div>
+<CAPTION>lakes in uganda </CAPTION>
+<table border="10"width="100%">
+<tr>
+  <th>LAKE</th>
+  <th>LOCATION</th>
+</tr>
+<tr>
+<td>L.victoria</td>
+<td> south of uganda</td>
+</tr>
+   <tr>
+<td>L.kyoga</td>
+<td>central uganda</td>
+</tr>
+<tr>
+<td>L.Bunyonyi</td>
+<td>western uganda</td>
+</tr>
+<tr>
+<td>L.Albert</td>
+<td>On the border with DRC and uganda</td>
+</tr>
+<tr>
+<td>L.Edward</td>
+<td>western uganda</td>
+</tr>
+</table>
+<div>
+<h3>Activities and services tourist can enjoy around shores of some lakes in uganda</h3>
+<ul>
+<li>bird viewing</li>
+<li>swimming</li>
+<li>boat curses</li>
+<li>fish eating</li>
+<li> sun beach birthing</li>
+<li>beach games like beach volley ball</li>
+<li>Accomodation from best hotel on the shores of the lakes </li>
+<li>photography</li>
+</ul>
+</body>
+</html>

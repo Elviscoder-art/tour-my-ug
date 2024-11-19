@@ -1,0 +1,43 @@
+h1,h2,h3{
+    color:red;
+    font-family: algerian;
+    text-align: center;
+    padding: 20px;
+    width: 50%;
+    background-color: yellow;
+}
+p{
+    border:1px solid black;
+    padding: 10px;
+}
+#yt{
+    color:blue;
+    font-size: 100%;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    width: 100;
+    box-sizing: border-box;
+    background-color: lavender;
+}
+#xt{
+    color:greenyellow;
+    font-size: 100%;
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    width: 100;
+    box-sizing: border-box;
+    background-color: rebeccapurple;
+}
+    #zt{
+        color:orangered;
+        font-size: 100%;
+        float: right;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 20px;
+        width: 100;
+        box-sizing: border-box;
+        background-color: lavender;
+    }
+    

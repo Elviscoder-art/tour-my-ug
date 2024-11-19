@@ -1,0 +1,103 @@
+<style type="text/css">
+body{
+    text-decoration:none;
+    background-color: greenyellow;
+    padding: 2px;
+    text-align: center;
+}
+.navbar{
+    background: crimson;font-family: calibri;padding-right: 25px;padding-left: 25px;
+}
+.navdiv{
+    display: flex;align-items: center;justify-content: space-between;
+}
+.logo a{
+    font-size: 15px;font-weight: 600;color: aqua;align-content: center;
+}
+li{
+    list-style: none;display: inline-block;
+}
+li a{ 
+    color: white;font-size: 18px;font-weight: bold;margin-right: 25px;float: right;
+}
+button{
+    background-color: black;margin-left: 10px;border-radius: 10px;padding: 10px;width: 90px;float: right;
+}
+button a{
+    color: aquamarine;font-weight: bold;font-size: 15px;
+}
+img{
+    border:1px solid #ddd;
+    border-radius: 1px;
+    padding:3%;
+    width: 35%;
+    text-align: justify;
+}
+.div1{
+    width:200px;
+    height:500px;
+    background-image: url(th.jpg);
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 20px salmon;
+    border: 20px;
+    text-align: center; 
+    background-size: 600px; 
+    position: center;
+}
+.div2{
+    width:140%;
+    margin:10px;
+    height: 40%;
+    background-image: url(th\ \(1\).jpg);
+    background-repeat: no-repeat;
+    padding-top:50px;
+    padding-right:25px;
+    padding-left:25px;
+    padding-bottom:50px;
+    border: 1px salmon;
+    background-size: 69%;
+    background-position: fixed;
+    background-attachment: center;
+    border-radius: 10px;            
+}
+.div3{
+    width:140%;
+    margin:10px;
+    height: 40%;
+    background-image: url(OIP\ \(17\).jpg);
+    background-repeat: no-repeat;
+    padding-top:50px;
+    padding-right:25px;
+    padding-left:25px;
+
+    padding-bottom:50px;
+    border: 1px salmon;
+    background-size: 69%;
+    background-position: fixed;
+    background-attachment: center;
+    border-radius: 10px;           
+}  
+.p{
+    font-size:large;
+    color:red;
+}
+footer{
+    background-color: aqua;
+    position: relative;
+    font-size: 80%;
+}
+.footer-copyright{
+    width: 100%;
+    height: 40%;
+    background: #111;
+    padding: 10%;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.footer-body{
+    margin-bottom: 40px;
+    padding: 30px;
+    color: red;
+}

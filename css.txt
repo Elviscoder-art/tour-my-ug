@@ -1,0 +1,9 @@
+css
+body {
+    background-color:grey;
+    text-color:white;
+    background-image:bottega.jpeg;
+    font-family:algerian;
+    padding:0;
+    margin:0;
+}

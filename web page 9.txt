@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<title><b> SWAMPS AND WETLAND IN UGANDA </b></title>
+</head>
+<body bgcolor="yellow">
+<div style="background-color:back;white;padding:2px">
+<img src="logo.png">
+<h2 align=center>ONLINE TOUR GUILD</h2><h3 style=background-color"#" align=right>SIGN IN </h3>
+<body>
+<div>
+<h1> SWAMPS AND WETLANDA OF UGANDA</h2>
+<p> Uganda has alot of swamps someof them  being rivrine, lake swamps , lowland swamps, seasonal swamps which make uganda more beautifil and uniqne . These swamps are home for mang cratives like snakes, fish ,repitles and various vegetation.Beause of this they are used as tourist attraction sites, fishing grounds for fisher men , study sites , mining sites for sand and clay for pottery and in the end they and up to the uganda's economy amd incomes of people    </p>
+<p>some of the swamps and wetlands include;
+<ol type="a">
+<li> Mabanda swamp </li>
+<li> Makanya wetland</li>
+<li> Bigodi wetland </li>
+<li> Nabajjuzi wetland</li>
+</ol>
+ </p>
+</div>
+<div>
+<CAPTION> swamps and wetlands in uganda </CAPTION>
+<table border="10"width="100%">
+<tr>
+  <th> Swamp and wetland </th>
+  <th>LOCATION</th>
+</tr>
+<tr>
+<td> Mabamba swamp </td>
+<td>located west of Entebbe onthe northern shores of L. victoria</td>
+</tr>
+   <tr>
+<td> Makanya swamp </td>
+<td> on L.victoria</td>
+</tr>
+<tr>
+<td> Bugodi swamp </td>
+<td> kibale</td>
+</tr>
+<tr>
+<td> Nabajjuzi</td>
+<td> Masaka </td>
+</tr>
+</table>
+<div>
+<h3>Activities and services tourist can enjoy around some swamps in uganda</h3>
+<ul>
+<li>bird viewing</li>
+<li>swimming</li>
+<li>boat curses</li>
+<li>fish eating</li>
+<li>swamp protection activities</li>
+<li>fising games</li>
+<li>Accomodation from best hotel neear some swamp of uganda</li>
+<li>photography</li>
+</ul>
+<img src="download (21).jpg"style="width:30%;Height:58%"></a>
+<img src="OIP (16).jpg"style=""width:30%;Height:58%">     <img src="download (22).jpg"style="width:30%;Height:58%"></a>
+<img src="download (23).jpg"style="width:30%;Height:58%"></a>
+<a href="web page 8.html"> explore uganda with some of these tourist companies  </a>
+</body>
+</html>
